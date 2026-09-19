@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+
+# Local environment
+.env
+.env.*
+playwright/.auth/
+storage_state.json
+
+# Test artifacts
+.pytest_cache/
